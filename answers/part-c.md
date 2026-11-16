@@ -13,3 +13,7 @@
 | | | | |
 | | | | |
 | | | | |
+
+## Svårast och tid
+
+(Vad var svårast i uppgiften, och vad gjorde du för att komma vidare? Ungefär hur många timmar lade du på varje del (A, B och C)?)
